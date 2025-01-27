@@ -2,7 +2,7 @@ import requests
 import json
 
 # Set your API key
-API_KEY = "010670d1-1d83-4108-8bd8-6be9c158c4fb"
+API_KEY = "test"
 BASE_URL = "https://open.lixinger.com/api"
 
 # Define the endpoint
